@@ -1,7 +1,7 @@
 {
-  "name": "testing-react-material-ui",
+  "name": "rsync-app",
   "version": "1.0.0",
-  "description": "Live demo",
+  "description": "Sync local folders, schedule sync tasks",
   "keywords": [],
   "homepage": "https://codesandbox.io/s/4j7m47vlm4",
   "main": "index.js",
